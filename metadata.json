@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis – BD AI Assistant",
+  "description": "Intelligent voice-controlled Bengali & English personal AI assistant with smart receptionist, call & SMS management, phone controls, and futuristic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
